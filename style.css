@@ -1,0 +1,14 @@
+#resultDiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align: center;
+    gap: 1rem;
+    background-image: url(texture.jpg);
+}
+
+.pokemonCard{
+    border: solid 1px black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 1rem;
+    background-color: white;
+}
