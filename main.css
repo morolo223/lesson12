@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    justify-items: center;
+}
+
+header{
+    justify-items: center;
+}
+
+.pages{
+    background-color: orange;
+    text-decoration: none;
+    
+}
+
+.pokemonAd{
+    display: flex;
+}
+
+.pokemonCard{
+    background-color: azure;
+    border: 2px solid grey;
+    border-radius: 25px;
+    margin: 100px;
+    padding: 20px;
+    justify-items: center;
+}
+
+.pokemonCard p{
+    font-size: 2rem
+}
